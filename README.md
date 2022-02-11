@@ -2,7 +2,7 @@
 # Hola, Soy Luis! 👋
 
 
-![Logo](image/Banner.jpg)
+![Logo](image/Banner.png)
 
 
 ## 🚀 About Me
