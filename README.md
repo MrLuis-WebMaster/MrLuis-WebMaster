@@ -1,85 +1,32 @@
-
-# Hola, Soy Luis! 👋
-
-
 ![Logo](image/Banner.png)
 
-
-# 🚀 About Me
-¿Quién es Luis Martinez? 😄
-
-Soy un Full Stack Developer, desarrollo mis habilidades con gran destreza ya sea en Front-End o Back-End, aunque mi interes y pasion se encuentran en el Back.
-
-Me considero un desarrollador muy curioso, con gran capacidad de aprendizaje y sobre todo una gran disposición al momento de crear, aprender, innovar y ayudar sobre el crecimiento de la empresa o comunidad.
-
-📝 Aprobé 3 trimestres de Ingeniería Informática, desde entonces he estado estudiando de manera autodidacta y curse el Bootcamp de Henry para reforzar mis conocimientos y desempeñarme como Full Stack Developer.
-
-🤓 Mi experiencia laboral ha sido principalmente en el ámbito académico, desarrollando aplicaciones con librerías y frameworks de JavaScript en el Front-End tecnologías como React-Redux, en el Back-End Node, Express, PostgreSQL entre otras...
+# 💫 About Me:
+Hello! I'm Luis Martinez, a Full Stack developer with over two years of industry experience. I'm passionate about both Front-End and Back-End development.<br><br>In terms of my academic background, I started my career in the programming world in 2017 and gained knowledge in Computer Engineering during several semesters at university. However, my thirst for knowledge led me to seek new learning opportunities.<br><br>Since then, I have followed a self-taught path, participating in bootcamps, online courses, and working on personal projects. I highlight my participation in the Henry Bootcamp, where I strengthened my skills as a Full Stack Developer.<br><br>I have had the opportunity to work on companies and projects, focusing primarily on Front-End development using JavaScript. My experience includes using libraries and frameworks such as React and Redux to create intuitive and appealing user interfaces with efficient and scalable solutions.<br><br>In the Back-End domain, I have worked with technologies such as Node.js, Express, and PostgreSQL. I have been responsible for designing and developing robust APIs, as well as managing databases to ensure optimal server-side performance.<br><br>My deep knowledge of the JavaScript ecosystem has allowed me to adapt to different requirements and emerging technologies. I keep myself updated with the latest trends and best practices in web development.<br><br>If you wish to get in touch with me, you can do so through the following means:<br><br>📱 Whatsapp: +57 3214363313<br>GitHub: https://github.com/MrLuis-WebMaster<br>Email: mr.luiswebmaster@gmail.com<br><br>I am excited about the opportunities that the future holds, and I hope to contribute my skills and knowledge to challenging projects. I look forward to speaking with you soon!
 
 
-Te gustaria hablar conmigo? 😁 ¡Puedes contactarme! 📱
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luismartinez-javascript) 
 
-Whatsapp: +57 3214363313 o haz click sobre el enlace https://wa.link/ly6eq9 
-GitHub: https://github.com/MrLuis-WebMaster
-Email: mr.luiswebmaster@gmail.com
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Strapi](https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MrLuis-WebMaster&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MrLuis-WebMaster&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuis-WebMaster&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻👨‍💻
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=MrLuis-WebMaster&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-# 🛠 Skills
-* HTML
-* CSS
-* SCSS
-* JavaScript
-* ReactJS
-* Redux
-* NodeJS
-* Express
-* Sequelize
-* PostgreSQL
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MrLuis-WebMaster&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### 😂 Random Dev Meme
+<img src="https://rm.up.railway.app/" width="512px"/>
 
+---
+[![](https://visitcount.itsvg.in/api?id=MrLuis-WebMaster&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Projects
-
-## Desarrolle una app de Dogs <a href=https://github.com/MrLuis-WebMaster/PI-Dogs> World Dogs </a>
-Es una aplicación sobre razas de perros, donde podrás: 🐶
-- Filtrar por temperamentos.
-- Ordenar por peso / alfabéticamente.
-- Crear una nueva raza de perro.
-Las tecnologías que utilice: ReactJS, Redux, NodeJS, ExpressJS, Sequelize, PostgreSQL
-
-## Desarrolle un pequeño juego con TypeScript <a href=https://github.com/MrLuis-WebMaster/Triquis> Tic Tac</a>
-- Un clasico Juego realizado con TypeScript y ReactJS
-
-## Desarrolle una app del Clima <a href=#> App Clima </a>
-Es una aplicación sobre el clima, donde podrás: 
-- Conocer el clima de muchas ciudades del mundo.
-- Las tecnologías que utilice: ReactJS, Redux.
-
-## Actualmente trabajando en el desarrollo de una <a href=https://github.com/pablo99nunez/Henry-Social>Red Social</a>
-Es una red social para una comunidad de estudiantes
-- Notificaciones, Chat personal y grupal en vivo.
-- Interacciones a traves de post.
-- Listas de amigos, poder seguir / dejar de seguir.
-- Muchas cosas mas..
-
-Tecnologias utilizadas: ReactJS, Redux, NodeJS, ExpressJS, MongoDB, Moongose, Firebase, WebSockets.
-
-
-
-
-
-# My GitHubs Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrLuis-WebMaster)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuis-WebMaster)](https://github.com/anuraghazra/github-readme-stats)
-
-
-# 🔗 Links Contac
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mrluismartinez.site/)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-martinez-617517217/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-orange)](https://www.instagram.com/lgmu27/)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
