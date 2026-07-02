@@ -1,68 +1,115 @@
-![Logo](image/Banner.png)
+![Banner](image/Banner.png)
 
-# 💫 About Me:
-Hello! I'm **Luis Martinez**, a **Full Stack Developer** with over two years of professional experience, passionate about building solutions both on the **Frontend** and **Backend**.
+<h1 align="center">Luis Martínez</h1>
 
-Since starting my journey in programming in 2017 and strengthening my skills through university studies, bootcamps, and self-learning, I have worked on numerous projects focused primarily on **Front-End development** with JavaScript, React, Vue, and related technologies.  
-On the **Back-End**, I have designed and built robust APIs with **Node.js**, **Express**, and **PostgreSQL**, always ensuring optimal performance.
-
-Currently, I continue to expand my expertise with technologies like **Flutter**, **Dart**, and **C#**, always staying updated with the latest trends in software development.
-
-## 📬 How to reach me:
-- 📱 WhatsApp: +57 3214363313
-- 📧 Email: [mr.luiswebmaster@gmail.com](mailto:mr.luiswebmaster@gmail.com)
-- 🔗 GitHub: [MrLuis-WebMaster](https://github.com/MrLuis-WebMaster)
-- 🔗 LinkedIn: [Luis Martinez](https://linkedin.com/in/luismartinez-javascript)
-
----
-
-# 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luismartinez-javascript)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrLuis-WebMaster)
-
----
-
-# 🛠️ Tech Stack
-### Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
-
-### Tools & Others
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-# 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrLuis-WebMaster&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrLuis-WebMaster&theme=blue-green&hide_border=false" height="180px" />
+  <strong>Full Stack Engineer</strong><br />
+  SaaS • AI Automation • Product Engineering
 </p>
 
-<br/>
+<p align="center">
+  I build scalable digital products from idea to production, working across frontend, backend, mobile and automation.
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuis-WebMaster&theme=blue-green&hide_border=false&layout=compact" height="150px" />
+  <a href="mailto:mr.luiswebmaster@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mr.luiswebmaster%40gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/luismartinez-javascript/">
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Mart%C3%ADnez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
+
+## About me
+
+I'm a Full Stack Engineer focused on building SaaS products, internal business platforms, mobile experiences and AI-powered automation.
+
+I enjoy working from problem discovery to solution delivery: understanding business needs, planning technical solutions, designing maintainable architectures and building software that can evolve over time.
+
+My work combines product thinking, clean engineering practices and hands-on development across the stack. I care about user experience, code quality, reusable systems and technical decisions that balance scalability, maintainability and business impact.
+
+---
+
+## What I work on
+
+- **SaaS Platforms** — product-focused web applications, dashboards, CRMs, ATS platforms and internal tools.
+- **AI Automation** — workflows, assistants and automations that improve operations and accelerate product development.
+- **Frontend Engineering** — scalable interfaces, reusable components, design systems and responsive experiences.
+- **Backend APIs** — REST services, integrations, authentication, data modeling and business logic.
+- **Mobile Development** — Flutter applications and cross-platform product experiences.
+- **Product Engineering** — transforming business problems into clear, maintainable and scalable software solutions.
+
+---
+
+## Tech stack
+
+### Core
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0A0A0A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vue.js](https://img.shields.io/badge/Vue.js-0A0A0A?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-0A0A0A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-0A0A0A?style=for-the-badge&logo=flutter&logoColor=02569B)
+![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![NestJS](https://img.shields.io/badge/NestJS-0A0A0A?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+
+### Frontend & UI
+
+![Next.js](https://img.shields.io/badge/Next.js-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-0A0A0A?style=for-the-badge&logo=nuxtdotjs&logoColor=00DC82)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0A0A0A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![HTML5](https://img.shields.io/badge/HTML5-0A0A0A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0A0A0A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Figma](https://img.shields.io/badge/Figma-0A0A0A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+
+### Backend, data & tools
+
+![Express.js](https://img.shields.io/badge/Express.js-0A0A0A?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0A0A0A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MySQL-0A0A0A?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0A0A0A?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Docker](https://img.shields.io/badge/Docker-0A0A0A?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Git](https://img.shields.io/badge/Git-0A0A0A?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## Engineering principles
+
+- Start with the problem before choosing the technology.
+- Build simple solutions that can evolve.
+- Prefer reusable patterns over one-off implementations.
+- Keep user experience, performance and maintainability in balance.
+- Write code that is clear for the next developer, not only for the machine.
+
+---
+
+## Current focus
+
+- Product engineering for SaaS and internal platforms.
+- AI-powered automation and developer workflows.
+- Scalable frontend architecture with Vue, React and TypeScript.
+- Backend APIs and integrations with Node.js and NestJS.
+- Flutter mobile experiences.
+
+---
+
+## GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrLuis-WebMaster&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180px" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrLuis-WebMaster&theme=dark&hide_border=true" height="180px" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuis-WebMaster&theme=dark&hide_border=true&layout=compact" height="150px" alt="Top languages" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Building scalable digital products with product thinking, clean architecture and practical engineering.</strong>
+</p>
