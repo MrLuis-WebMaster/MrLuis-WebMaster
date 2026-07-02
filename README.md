@@ -1,4 +1,4 @@
-![Banner](image/Banner.png)
+![Banner](image/banner.png)
 
 <h1 align="center">Luis Martínez</h1>
 
