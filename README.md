@@ -32,51 +32,41 @@ My work combines product thinking, clean engineering practices and hands-on deve
 
 ---
 
-## What I work on
+## What I build
 
 - **SaaS Platforms** — product-focused web applications, dashboards, CRMs, ATS platforms and internal tools.
 - **AI Automation** — workflows, assistants and automations that improve operations and accelerate product development.
-- **Frontend Engineering** — scalable interfaces, reusable components, design systems and responsive experiences.
+- **Frontend Architecture** — scalable interfaces, reusable components, design systems and responsive experiences.
 - **Backend APIs** — REST services, integrations, authentication, data modeling and business logic.
-- **Mobile Development** — Flutter applications and cross-platform product experiences.
+- **Mobile Experiences** — Flutter applications and cross-platform product experiences.
 - **Product Engineering** — transforming business problems into clear, maintainable and scalable software solutions.
 
 ---
 
-## Featured work
+## How I approach software
 
 <table>
   <tr>
     <td width="50%">
-      <h3>Invitation Manager — Frontend</h3>
-      <p>Frontend application for managing invitation workflows and user-facing interactions.</p>
-      <p><strong>Focus:</strong> Frontend architecture, UI, product flows.</p>
-      <a href="https://github.com/MrLuis-WebMaster/invitation-manager-frontend">View repository</a>
+      <h3>Product first</h3>
+      <p>I start by understanding the problem, the user and the business context before choosing a technical solution.</p>
     </td>
     <td width="50%">
-      <h3>Invitation Manager — Backend</h3>
-      <p>Backend service for invitation management, API design and business logic.</p>
-      <p><strong>Focus:</strong> APIs, authentication, backend architecture.</p>
-      <a href="https://github.com/MrLuis-WebMaster/invitation-manager-backend">View repository</a>
+      <h3>Architecture with purpose</h3>
+      <p>I prefer simple, maintainable architectures that support product evolution without unnecessary complexity.</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3>Academic Online App</h3>
-      <p>Digital learning platform concept focused on academic experiences and online education flows.</p>
-      <p><strong>Focus:</strong> Product engineering, web application structure.</p>
-      <a href="https://github.com/MrLuis-WebMaster/app-academic-online">View repository</a>
+      <h3>Reusable systems</h3>
+      <p>I design components, patterns and APIs that reduce duplication and help teams move faster with consistency.</p>
     </td>
     <td width="50%">
-      <h3>FunnelHot App</h3>
-      <p>Application concept focused on funnel workflows and business process management.</p>
-      <p><strong>Focus:</strong> SaaS thinking, workflow design, product interfaces.</p>
-      <a href="https://github.com/MrLuis-WebMaster/funnelhot-app">View repository</a>
+      <h3>Practical engineering</h3>
+      <p>I balance scalability, code quality, performance and delivery speed to create software that works in the real world.</p>
     </td>
   </tr>
 </table>
-
-> More selected projects will be added as I continue organizing and documenting my public repositories.
 
 ---
 
@@ -114,16 +104,6 @@ My work combines product thinking, clean engineering practices and hands-on deve
 
 ---
 
-## Engineering principles
-
-- Start with the problem before choosing the technology.
-- Build simple solutions that can evolve.
-- Prefer reusable patterns over one-off implementations.
-- Keep user experience, performance and maintainability in balance.
-- Write code that is clear for the next developer, not only for the machine.
-
----
-
 ## Current focus
 
 - Product engineering for SaaS and internal platforms.
@@ -131,19 +111,6 @@ My work combines product thinking, clean engineering practices and hands-on deve
 - Scalable frontend architecture with Vue, React and TypeScript.
 - Backend APIs and integrations with Node.js and NestJS.
 - Flutter mobile experiences.
-
----
-
-## GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrLuis-WebMaster&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180px" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrLuis-WebMaster&theme=dark&hide_border=true" height="180px" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrLuis-WebMaster&theme=dark&hide_border=true&layout=compact" height="150px" alt="Top languages" />
-</p>
 
 ---
 
