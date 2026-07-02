@@ -43,6 +43,43 @@ My work combines product thinking, clean engineering practices and hands-on deve
 
 ---
 
+## Featured work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Invitation Manager — Frontend</h3>
+      <p>Frontend application for managing invitation workflows and user-facing interactions.</p>
+      <p><strong>Focus:</strong> Frontend architecture, UI, product flows.</p>
+      <a href="https://github.com/MrLuis-WebMaster/invitation-manager-frontend">View repository</a>
+    </td>
+    <td width="50%">
+      <h3>Invitation Manager — Backend</h3>
+      <p>Backend service for invitation management, API design and business logic.</p>
+      <p><strong>Focus:</strong> APIs, authentication, backend architecture.</p>
+      <a href="https://github.com/MrLuis-WebMaster/invitation-manager-backend">View repository</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Academic Online App</h3>
+      <p>Digital learning platform concept focused on academic experiences and online education flows.</p>
+      <p><strong>Focus:</strong> Product engineering, web application structure.</p>
+      <a href="https://github.com/MrLuis-WebMaster/app-academic-online">View repository</a>
+    </td>
+    <td width="50%">
+      <h3>FunnelHot App</h3>
+      <p>Application concept focused on funnel workflows and business process management.</p>
+      <p><strong>Focus:</strong> SaaS thinking, workflow design, product interfaces.</p>
+      <a href="https://github.com/MrLuis-WebMaster/funnelhot-app">View repository</a>
+    </td>
+  </tr>
+</table>
+
+> More selected projects will be added as I continue organizing and documenting my public repositories.
+
+---
+
 ## Tech stack
 
 ### Core
